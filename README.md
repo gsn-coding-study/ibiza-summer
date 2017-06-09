@@ -9,7 +9,8 @@
 
 ### 최근 스터디 로그 [0-9a-z]
 
-* fugu
+* [coach](Coach/Studylog/2017-06-15.md)
+* [fugu](fugu/Studylog/2017-06-15.md)
 * {TBD}
 
 ### 일정
