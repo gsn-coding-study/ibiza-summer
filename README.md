@@ -63,4 +63,4 @@ __반드시 진행 로그 산출물을 남길 것__
 ## References
 
 * [사내 내부 개발자 교육 필요한가?](http://blog.hkwon.me/developer-education/)
-* [Githup에 처음 파일 올리기](http://emflant.tistory.com/123)
+* [Github에 처음 파일 올리기](http://emflant.tistory.com/123)
