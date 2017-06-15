@@ -12,6 +12,7 @@
 * [apple](apple/Studylog/2017-06-15.md)
 * [Coach](Coach/Studylog/2017-06-15.md)
 * [fugu](fugu/StudyLog/2017.06.15.fugu.md)
+* [gajahawaii](gajahawaii/StudyLog/2017.06.09)
 * [hoon](hoon/StudyLog/2017.06.09)
 * {TBD}
 
