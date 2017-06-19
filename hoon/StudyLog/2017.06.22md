@@ -1,0 +1,24 @@
+# 2017-06-22
+
+## 개인 진행 내용
+
+- AWS Certified Solutions Architect (~7/4)
+- Head First Python 스터디
+- TA 할일 고민
+
+## 읽은 글
+
+- 인테이크 서비스 스택 http://intakefoods.kr/blog/article/141
+- AWS, Elasticsearch / CloudSearch 비교 https://s-tune.com/archives/1502
+- [AWS] Request Spot Instances 이용하기 https://hjpco.wordpress.com/2017/06/14/aws-spot-instance-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0
+- [AWS] S3에 서비스 배포 팁 https://isme2n.github.io/aws/2017/06/10/aws-s3-tip
+- AWS Route table 설정과 해석 http://stevenjsmin.tistory.com/195
+- AWS로 Serverless web application 만들기 (1) – API Gateway http://uaremine.egloos.com/5891252
+- [AWS RDS] Django + Postgresql + RDS 설정하기! http://devgyugyu.tistory.com/15
+- [AWS] EC2 인스턴스에서 docker swarm 서비스를 통해 웹서버 구동 및 확장 http://yongho1037.tistory.com/729
+- [AWS] Docker Swarm 워밍업. EC2 인스턴스 생성과 기본 구성 http://yongho1037.tistory.com/728
+- [AWS] Elastic Beanstalk 생성과 Hook, .ebextensions를 통해 EC2 인스턴스 설정 http://yongho1037.tistory.com/731
+
+## 후기
+
+-
