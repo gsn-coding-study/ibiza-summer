@@ -4,7 +4,7 @@ def even(i):
 
 
 def find_multiple_int(n, i):
-    while 0 != n % i and n < 27:
+    while (0 != n % i) and (n < 27):
         n += 10
     return n
 
@@ -20,7 +20,7 @@ def restore(isbn):
             total += (v if even(i) else v * 3)
         else:
             is_even = even(i)
-    x = (10 - (total + chksum) % 10) % 10
+    x = (10 - (total + chksum)) % 10
     return x if is_even else int(find_multiple_int(x, 3) / 3)
 
 
