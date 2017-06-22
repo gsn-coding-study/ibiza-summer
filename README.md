@@ -9,7 +9,7 @@
 
 ### 최근 스터디 로그 [0-9a-z]
 
-* [apple](apple/Studylog/2017-06-15.md)
+* [apple](apple/Studylog/2017-06-22.md)
 * [coach](coach/Studylog/2017-16-22-coach.md)
 * [fugu](fugu/StudyLog/2017.06.22.fugu.md)
 * [gajahawaii](gajahawaii/StudyLog/2017.06.22.md)
