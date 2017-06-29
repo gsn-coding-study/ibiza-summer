@@ -9,11 +9,11 @@
 
 ### 최근 스터디 로그 [0-9a-z]
 
-* [apple](apple/Studylog/2017-06-22.md)
-* [coach](coach/Studylog/2017-16-22-coach.md)
-* [fugu](fugu/StudyLog/2017.06.22.fugu.md)
+* [apple](apple/Studylog/2017-06-29.md)
+* [coach](coach/Studylog/2017-16-29-coach.md)
+* [fugu](fugu/StudyLog/2017.07.06.fugu.md)
 * [gajahawaii](gajahawaii/StudyLog/2017.06.22.md)
-* [hoon](hoon/StudyLog/2017.06.22.md)
+* [hoon](hoon/StudyLog/2017.06.29.md)
 
 ### 일정
 
@@ -34,6 +34,7 @@ __반드시 진행 로그 산출물을 남길 것__
 각자 자신의 속도에 맞추어 온라인 저지등을 이용하여, 원하는 언어로 알고리즘 문제를 풀어보자.
 * [온라인저지/알고스팟](https://algospot.com/judge/problem/list/)
 * [온라인저지/백준](https://www.acmicpc.net/)
+* [온라인저지/Helloworld](http://tryhelloworld.co.kr/challenges)
 * {기타 추가 예정}
 
 ## Prologue
