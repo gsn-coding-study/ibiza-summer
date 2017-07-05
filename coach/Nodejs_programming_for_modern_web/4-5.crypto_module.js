@@ -21,7 +21,7 @@ cipher.update(input, 'utf8', 'base64');
 var cipheredOutput = cipher.final('base64');
 
 // 암호화 해제
-var decipher = crypto.createDecipher('ase192', key);
+var decipher = crypto.createDecipher('aes192', key);
 decipher.update(cipheredOutput, 'base64', 'utf8');
 var decipherOutput = decipher.final('utf8');
 
