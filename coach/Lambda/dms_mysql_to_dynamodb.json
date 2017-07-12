@@ -1,0 +1,54 @@
+{
+  "rules": [
+    {
+			"rule-type": "selection",
+			"rule-id": "1",
+			"rule-name": "1",
+			"object-locator": {
+				"schema-name": "sakila",
+				"table-name": "actor"
+			},
+			"rule-action": "include"
+		},
+    {
+      "rule-type": "object-mapping",
+      "rule-id": "2",
+      "rule-name": "TransformToDDB",
+      "rule-action": "map-record-to-record",
+      "object-locator": {
+        "schema-name": "sakila",
+        "table-name": "actor"
+        },
+      "target-table-name": "migration2",
+      "mapping-parameters": {
+        "partition-key-name": "actor_name",
+        "exclude-columns": [
+          "actor_id",
+          "first_name",
+          "last_name",
+          "last_update"
+        ],
+        "attribute-mappings": [
+          {
+            "target-attribute-name": "actor_name",
+            "attribute-type": "scalar",
+            "attribute-sub-type": "string",
+            "value": "${first_name},${last_name}"
+          },
+          {
+            "target-attribute-name": "actor_ID",
+            "attribute-type": "scalar",
+            "attribute-sub-type": "string",
+            "value": "${actor_id}"
+          },
+          {
+            "target-attribute-name": "last_update",
+            "attribute-type": "scalar",
+            "attribute-sub-type": "string",
+            "value": "${last_update}"
+          }
+        ]
+      }
+    }
+  ]
+}
