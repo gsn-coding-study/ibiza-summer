@@ -9,10 +9,10 @@
 
 ### 최근 스터디 로그 [0-9a-z]
 
-* [apple](apple/Studylog/2017-07-06.md)
-* [coach](coach/Studylog/2017-07-06-coach.md)
-* [fugu](fugu/StudyLog/2017.07.06.fugu.md)
-* [gajahawaii](gajahawaii/StudyLog/2017.06.29.md)
+* [apple](apple/Studylog/2017-07-13.md)
+* [coach](coach/Studylog/2017-07-13-coach.md)
+* [fugu](fugu/StudyLog/2017.07.13.fugu.md)
+* [gajahawaii](gajahawaii/StudyLog/2017.07.13.md)
 * [hoon](hoon/StudyLog/2017.06.29.md)
 
 ### 일정
