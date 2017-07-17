@@ -1,5 +1,5 @@
 #-*- coding: utf-8 -*-
-args = [input() for i in range(int(input()))]
+
 
 def vps(ps):
     stack = []
@@ -14,4 +14,7 @@ def vps(ps):
             return 'NO'
     return 'YES' if 0 == len(stack) else 'NO'
 
-print("\n".join(map(vps,args)))
+
+if __name__ == "__main__":
+    args = [input() for i in range(int(input()))]
+    print("\n".join(map(vps, args)))
