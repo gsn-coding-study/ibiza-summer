@@ -5,6 +5,7 @@ function fibonacci(num) {
         return num;
     }else if(num >= 2){
         var fibo = [0, 1];
+      var j;
         for(var i=2; i<=num; i++){
             j = fibo[i-1] + fibo[i-2];
             fibo.push(j);
