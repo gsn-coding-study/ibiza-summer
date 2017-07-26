@@ -2,14 +2,17 @@
 
 
 def play(seq):
-    os = range(1, len(seq) + 1)
+    '''
+
+    '''
+    orders = [i for i in range(1, len(seq) + 1)]
     stack = []
     rec = []
-    while 0 < len(seq):
-        if os[0] < seq[0]:
-            stack += os.pop(0)
+    for i in seq:            
+        if orders[0] < i:
+            stack += orders.pop(0)
             rec += '+'
-        elif:
+        elif 1:
             pass
 
         else:
@@ -18,5 +21,6 @@ def play(seq):
     return '\n'.join(rec)
 
 
-args = [input() for i in range(int(input()))]
-print(play(args))
+if __name__ == "__main__":
+    s = [input() for i in range(int(input()))]
+    print(play(s))
