@@ -2,7 +2,7 @@
 
 ## 목차
 1. 생략
-2. [모듈 사용](https://github.com/gsn-coding-study/ibiza-summer/blob/master/coach/Doit_nodejs/2.modules.js)
+2. [모듈 사용](https://github.com/gsn-coding-study/ibiza-summer/tree/master/coach/Doit_nodejs/2.modules)
 3. 함수, 배열, 콜백
 4. 이벤트, 파일처리
 5. Web Server
