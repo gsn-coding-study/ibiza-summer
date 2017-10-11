@@ -1,3 +1,5 @@
+//last updates 2017.10.11
+
 var result = 0;
 
 console.time('duration_sum');

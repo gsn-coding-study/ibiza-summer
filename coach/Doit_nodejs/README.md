@@ -3,7 +3,7 @@
 ## 목차
 1. 생략
 2. [모듈 사용](../2.modules)
-3. 함수, 배열, 콜백
+3. [함수, 배열, 콜백](../3.functions_arrays_callback)
 4. 이벤트, 파일처리
 5. Web Server
     1) Express
@@ -22,4 +22,7 @@
 13. Mobile Service
 14. 게시판
 15. Cloud
+
+## 진도 및 기록
+### 2~3과 : 2017.10.11
 
