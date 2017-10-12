@@ -4,6 +4,7 @@
 <ol class="no-style" id="markdown-toc">
 <li><a href="#section" id="markdown-toc-section">생략</a> 
 <li><a href="#section2" id="markdown-toc-section">모듈 사용</a>
+<li><a href="#section3" id="markdown-toc-section">함수, 배열, 콜백</a>
 
 1. 생략
 2. [모듈 사용](../2.modules), [log](./README.md:26)
@@ -28,16 +29,17 @@
 15. Cloud
 
 ## 진도 및 기록
+<h3 id="section">1. 생략</h3>
 <h3 id="section2">2. 모듈 사용</h3>
 
-#### 사용 된 소스
-
-[소스로 이동](../2.modules)
+#### 작성 된 소스
+* [소스 확인하기 클릭](../2.modules)
 
 #### Study log
-
 * 3과까지 다 할수 있을 줄 알았는데 못했당
 * 왜케 진도가 안나가지
+
+<h3 id="section3">3. 함수, 배열 콜백</h3>
 
 
 
