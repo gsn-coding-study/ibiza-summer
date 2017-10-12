@@ -2,8 +2,8 @@
 
 ## 목차
 <ol class="no-style" id="markdown-toc">
-<li><a href="#section" id="markdown-toc-section">1. 생략</a> 
-<li><a href="#section2" id="markdown-toc-section">2. 모듈 사용</a>
+<li><a href="#section" id="markdown-toc-section">생략</a> 
+<li><a href="#section2" id="markdown-toc-section">모듈 사용</a>
 
 1. 생략
 2. [모듈 사용](../2.modules), [log](./README.md:26)
@@ -28,8 +28,12 @@
 15. Cloud
 
 ## 진도 및 기록
-### 2과 : 2017.10.11
+<h2 id="section2">모듈 사용</h2>
+### 사용 된 소스
+[소스로 이동](../2.modules)
+### Study log
 * 3과까지 다 할수 있을 줄 알았는데 못했당
 * 왜케 진도가 안나가지
+
 
 
