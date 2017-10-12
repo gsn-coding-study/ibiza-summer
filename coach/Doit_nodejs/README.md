@@ -2,9 +2,9 @@
 
 ## 목차
 <ol class="no-style" id="markdown-toc">
-<li><a href="#section" id="markdown-toc-section">1. 생략</a> <ol>
-<li><a href="#section2" id="markdown-toc-section">2. 모듈 사용</a> <ol>
-</ol>
+<li><a href="#section" id="markdown-toc-section">1. 생략</a> 
+<li><a href="#section2" id="markdown-toc-section">2. 모듈 사용</a>
+
 1. 생략
 2. [모듈 사용](../2.modules), [log](./README.md:26)
 3. [함수, 배열, 콜백](../3.functions_arrays_callback)
