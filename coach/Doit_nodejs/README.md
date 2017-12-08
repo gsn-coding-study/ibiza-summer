@@ -42,6 +42,15 @@
 #### 작성 된 소스
 * [소스 확인하기 클릭](3.functions_arrays_callback)
 
+#### Study Log
+* 2017/10/24 ~
+    * 지겨움...
+    * forEach
+    * push, pop, unshift, shift, splice, slice
+    * slice 메소드 사용 할 때 전달하는 파라미터 시작과 끝 위치 숫자가 이해 어려움
+* 2017/10/30
+    * 콜백함수 이해하기
+    * 
 
 <h3 id="section4">4. 이벤트, 파일처리</h3>
 
